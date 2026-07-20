@@ -175,3 +175,9 @@ cython_debug/
 *.md
 !README.md
 .DS_Store
+
+# Cursor local project rules / state (keep personal; not shared via git)
+.cursor*
+
+# Large reference books (not project source)
+*.epub
